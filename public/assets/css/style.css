@@ -1,0 +1,18 @@
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url("https://wgbh.brightspotcdn.com/dims4/default/707f63f/2147483647/strip/true/crop/2508x1368+0+152/resize/990x540!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2Fb4%2F72%2Fc4c5be004fdbb31f944f16145343%2Fclose-up-cheeseburger.jpg");
+}
